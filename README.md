@@ -11,3 +11,4 @@
 - [Task 9 - (INNER JOIN)](https://github.com/sametcanal53/PatikaDev-SQL/tree/master/Task9)
 - [Task 10 - (LEFT JOIN - RIGHT JOIN - FULL JOIN)](https://github.com/sametcanal53/PatikaDev-SQL/tree/master/Task10)
 - [Task 11 - (UNION - INTERSECT - EXCEPT)](https://github.com/sametcanal53/PatikaDev-SQL/tree/master/Task11)
+- [Task 12 - (ANY - ALL - SUBQUERIES)](https://github.com/sametcanal53/PatikaDev-SQL/tree/master/Task12)
